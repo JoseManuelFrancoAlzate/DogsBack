@@ -16,7 +16,7 @@ const cleanArray = (arr)=>{
              created: false
 
          } 
-     })
+     }) 
  }
 
  const cleanDbsArray = (arr)=>{
